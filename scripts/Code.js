@@ -370,6 +370,16 @@ function EzyOauth2 (authenticationPackage, optCallback , optTimeout , optArgs , 
           tokenUrl: "https://www.reddit.com/api/v1/access_token",
           refreshUrl: "https://www.reddit.com/api/v1/access_token",
           basic:true
+      },
+      { name:'asana',
+         authUrl : "https://app.asana.com/-/oauth_authorize",
+         tokenUrl: "https://app.asana.com/-/oauth_token",
+         refreshUrl: "https://app.asana.com/-/oauth_token",
+      },
+      { name:'live',
+         authUrl : "https://login.live.com/oauth20_authorize.srf",
+         tokenUrl: "https://login.live.com/oauth20_token.srf",
+         refreshUrl: "https://login.live.com/oauth20_token.srf",
       }
 
     ];
