@@ -1,5 +1,5 @@
 # Google Apps Script Project: cEzyOauth2
-This repo (cEzyOauth2) was automatically updated on 30 April 2015 17:52:03 BST by GasGit
+This repo (cEzyOauth2) was automatically updated on 06 June 2015 09:17:45 BST by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project cEzyOauth2
